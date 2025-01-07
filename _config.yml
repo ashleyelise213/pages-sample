@@ -22,7 +22,6 @@ title: Ashley Miller
 email: ashleyelise213@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My website following CU Boulder Data Course.
-  Google search results) and in your feed.xml site description.
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog. Leave this alone
 url: "https://ashleyelise213.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
